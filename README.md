@@ -69,8 +69,8 @@ This project includes a sample `persistence.xml` file configured for Hibernate. 
 
 To install the archetype locally, first clone the repository and navigate to the root directory of the project:
 ```sh
-git clone <repository-url>
-cd <repository-root-directory>
+git clone https://github.com/Samuel-Koleff/jakarta10-archetype.git
+cd jakarta10-archetype
 mvn clean install
 ```
 
